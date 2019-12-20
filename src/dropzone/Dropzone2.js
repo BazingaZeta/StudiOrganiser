@@ -8,8 +8,8 @@ var columnsFromBackend = {
   }
 };
 const Dropzone2 = ({ tasks }) => {
-  const [columns, setColumns] = useState(columnsFromBackend);
-  const [tasksToBoard, setTasksToBoard] = useState(tasks);
+  // const [columns, setColumns] = useState(columnsFromBackend);
+  // const [tasksToBoard, setTasksToBoard] = useState(tasks);
 
   useEffect(() => {
     columnsFromBackend = {
