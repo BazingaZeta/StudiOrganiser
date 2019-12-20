@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df2ffdf99a7b4aa08edf5c00ce94045c",
+    "revision": "61091bd2722ce64b44a8911a4b65932a",
     "url": "/StudiOrganiser/index.html"
   },
   {
-    "revision": "d2a9ac37f01f48211395",
+    "revision": "06e86a5109660c58a07d",
     "url": "/StudiOrganiser/static/css/main.750371f3.chunk.css"
   },
   {
-    "revision": "e6310ddeee3daa15e8c5",
-    "url": "/StudiOrganiser/static/js/2.15a2bac5.chunk.js"
+    "revision": "fa23495f2c805b2e2eee",
+    "url": "/StudiOrganiser/static/js/2.52b9567e.chunk.js"
   },
   {
-    "revision": "d2a9ac37f01f48211395",
-    "url": "/StudiOrganiser/static/js/main.75a49bb6.chunk.js"
+    "revision": "06e86a5109660c58a07d",
+    "url": "/StudiOrganiser/static/js/main.45c801a0.chunk.js"
   },
   {
     "revision": "54b421ef74852df3ceb6",
