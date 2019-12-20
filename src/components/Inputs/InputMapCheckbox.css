@@ -1,0 +1,8 @@
+.InputMapCheckbox {
+  text-align: left;
+  display: inline-block;
+}
+
+.InputMapCheckbox .checkboxInput {
+  padding: 3px;
+}

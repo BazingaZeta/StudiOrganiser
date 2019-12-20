@@ -1,0 +1,7 @@
+.TextInput label {
+  display: block;
+}
+
+.TextInput input {
+  width: 80%;
+}

@@ -1,0 +1,26 @@
+.Task {
+  width: 300px;
+  height: auto;
+  margin-bottom: 15px;
+  border-radius: 4px;
+  box-shadow: 8px 8px rgba(185, 186, 189, 0.3);
+  border-style: solid;
+  border-color: #63666a;
+}
+
+.Task p {
+  padding: 4px;
+  text-align: left;
+  display: inline-block;
+}
+
+.Task h4 {
+  text-align: left;
+  padding: 4px;
+  border-bottom-color: seagreen;
+}
+
+.Task h5 {
+  text-align: left;
+  margin-bottom: auto;
+}

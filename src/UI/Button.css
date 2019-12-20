@@ -1,0 +1,26 @@
+.Button button {
+  margin-top: 20px;
+  margin-bottom: 7px;
+  height: auto;
+  width: inherit;
+  background-color: white;
+  color: #63666a;
+  border: 3px solid #b9babd;
+  transition: border 0.7s ease-out, text-transform 0.5s,
+    border-radius 0.5s ease-out;
+  cursor: pointer;
+  border-radius: 4px;
+  box-shadow: 8px 8px rgba(185, 186, 189, 0.2);
+}
+
+.Button button:hover {
+  border: 3px solid #ff6c2f;
+  border-radius: 20px;
+}
+
+.Button button:active {
+  background-color: white;
+  color: white;
+  transform: translate3d(2px, 3px, 0px);
+  box-shadow: 6px 6px rgba(255, 108, 47, 0.2);
+}

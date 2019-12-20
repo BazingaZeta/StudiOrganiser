@@ -1,0 +1,8 @@
+.InputMapRadio {
+  display: inline-block;
+  text-align: left;
+}
+
+.InputMapRadio .radioInput {
+  padding: 3px;
+}

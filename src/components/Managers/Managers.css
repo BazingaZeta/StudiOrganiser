@@ -1,0 +1,24 @@
+.Managers {
+  width: 30rem;
+  margin: 2rem auto;
+  max-width: 80%;
+  text-align: center;
+}
+
+.Managers label {
+  display: block;
+}
+
+.Managers input {
+  font: inherit;
+  padding: 0.1rem 0.25rem;
+  border: none;
+  border-bottom: 2px solid #ccc;
+  margin-bottom: 1rem;
+  width: 80%;
+}
+
+.Managers input:focus {
+  outline: none;
+  border-bottom-color: #ff2058;
+}
